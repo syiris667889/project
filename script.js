@@ -11,9 +11,8 @@ $(document).ready(function() {
 	let diff = 0;
 	
 	let arrCities = ['Монастырь', 'Оргеев']; 
-  
-	let citiesLink = ['Monastery.html']
-    let citiesLink2 = ['Orhei.html']
+  	let citiesLink = ['Monastery.html']
+        let citiesLink2 = ['Orhei.html']
 	let numOfCities = arrCities.length;
 	let arrCitiesDivided = [];
 
@@ -38,7 +37,7 @@ $(document).ready(function() {
 					$(`<a href="${citiesLink2}"><div data-target="${numSlide}" class="slide slide--${numSlide}">
 							<div class="slide__darkbg slide--${numSlide}__darkbg"></div>
 							<div class="slide__text-wrapper slide--${numSlide}__text-wrapper"></div>
-							sss
+						
 						<a href="${citiesLink}"><div data-target="${numSlide}" class="slide slide--${numSlide}">
 							<div class="slide__darkbg slide--${numSlide}__darkbg"></div>
 							<div class="slide__text-wrapper slide--${numSlide}__text-wrapper"></div>
