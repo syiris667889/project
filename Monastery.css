@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 25%;
     height: 100%;
     background: #212121;
     transition: .3s linear;
@@ -43,7 +43,6 @@ body {
 .container .imgBx img {
     position: relative;
     width: 700px;
-    transform: rotate(-30deg);
     left: -50px;
     transition: .9s linear;
 }
