@@ -42,7 +42,7 @@ body {
 }
 .container .imgBx img {
     position: relative;
-    width: 700px;
+    width: 450px;
     left: -50px;
     transition: .9s linear;
 }
