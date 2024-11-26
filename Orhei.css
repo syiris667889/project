@@ -42,8 +42,8 @@ body {
 }
 .container .imgBx img {
     position: relative;
-    width: 700px;
-    left: -50px;
+    width: 450px;
+    left: -47px;
     transition: .9s linear;
 }
 .container .details {
